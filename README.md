@@ -1,6 +1,6 @@
 # Hi, I'm Owais Ahmed
 
-I'm a frontend developer working with **React and Tailwind CSS**, and learning backend development with **Node.js, Express, and MongoDB**.
+I'm a fullstack developer working with **React and Tailwind CSS**, and learning backend development with **Node.js, Express, and MongoDB**.
 
 I enjoy building clear, useful interfaces and understanding how the frontend, API, and database work together.
 
